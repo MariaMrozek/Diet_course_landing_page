@@ -1,0 +1,23 @@
+.baner-text {
+    min-height: 50vh;
+}
+
+.code {
+
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: rgb(239, 94, 220);
+}
+
+
+@media(min-width:640px) {
+
+
+    .menu li a {
+        padding:5px 16px;
+    }
+    .baner-text {
+        max-width:70vw;
+        padding: 1.5rem;
+    }
+}
